@@ -5,6 +5,13 @@
   <li>I love to visit new places and meet new people.</li>
 </ul>
 
+<h3>I'm currently working on:</h3>
+<ul>
+  <li>My old projects</li>
+  <li>Improving my DSA skills</li>
+  <li>A web based chat application - iChat (working on it soon ...)</li>
+</ul>
+
 <h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/aayushdalal"><img align="left" src="https://raw.githubusercontent.com/aayush7908/aayush7908/main/images/linkedin.svg" alt="Aayush Dalal | LinkedIn" width="21px"/></a>
 
