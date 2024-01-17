@@ -5,6 +5,9 @@
   <li>I love to visit new places and meet new people.</li>
 </ul>
 
+<h3>Connect with me:</h3>
+<a href="www.linkedin.com/in/aayushdalal"><img align="left" src="" alt="Aayush Dalal | LinkedIn" width=”21px”/></a>
+
 <!--
 **aayush7908/aayush7908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
