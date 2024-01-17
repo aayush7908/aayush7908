@@ -2,7 +2,9 @@
 - I love the process of web-development
 - I like solving DSA problems
 - I love to visit new places and meet new people
-
+- George Washington
+- John Adams
+- Thomas Jefferson
 
 <!--
 **aayush7908/aayush7908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
