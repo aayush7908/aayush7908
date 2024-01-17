@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I am Aayush Dalal</h1>
-* I love the process of web-development
-<!-- - I like solving DSA problems -->
-<!-- - I love to visit new places and meet new people -->
+<ul>
+  <li>I love the entire process of web-development.</li>
+  <li>I like solving DSA problems.</li>
+  <li>I love to visit new places and meet new people.</li>
+</ul>
 
 <!--
 **aayush7908/aayush7908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
