@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I am Aayush Dalal</h1>
-<p>I love the process of web-development. I like solving DSA problems. I love to visit new places and meet new people.</p>
+- I love the process of web-development.
+- I like solving DSA problems.
+- I love to visit new places and meet new people.
 
 
 <!--
