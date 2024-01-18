@@ -20,8 +20,18 @@
 <a href=""><img src="https://skillicons.dev/icons?i=java" alt="java"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=html" alt="html"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=css" alt="css"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=js" alt="javascript"/></a>
-<a href=""><img src="https://skillicons.dev/icons?i=js" alt="javascript"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=jquery" alt="jquery"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=express" alt="express.js"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=react" alt="react.js"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=nodejs" alt="node.js"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=postman" alt="postman"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=git" alt="git"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=github" alt="github"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=vscode" alt="vscode"/></a>
 <!--
 **aayush7908/aayush7908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
