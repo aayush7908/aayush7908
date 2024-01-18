@@ -23,7 +23,7 @@
 <a href=""><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=js" alt="javascript"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=jquery" alt="jquery"/></a>
-<p style="margin=0px"></p>
+<p style="padding=0px"></p>
 <a href=""><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=express" alt="express.js"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=react" alt="react.js"/></a>
