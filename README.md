@@ -31,7 +31,7 @@
 <a href=""><img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=postman" alt="postman"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=git" alt="git"/></a>
-<p></p>
+<br/>
 <a href=""><img src="https://skillicons.dev/icons?i=github" alt="github"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=vscode" alt="vscode"/></a>
 <!--
