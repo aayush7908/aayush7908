@@ -23,6 +23,7 @@
 <a href=""><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=js" alt="javascript"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=jquery" alt="jquery"/></a>
+<p></p>
 <a href=""><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=express" alt="express.js"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=react" alt="react.js"/></a>
@@ -30,6 +31,7 @@
 <a href=""><img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=postman" alt="postman"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=git" alt="git"/></a>
+<p></p>
 <a href=""><img src="https://skillicons.dev/icons?i=github" alt="github"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=vscode" alt="vscode"/></a>
 <!--
