@@ -16,7 +16,7 @@
 <p><a href="https://www.linkedin.com/in/aayushdalal"><img align="left" src="https://raw.githubusercontent.com/aayush7908/aayush7908/main/images/linkedin.svg" alt="Aayush Dalal | LinkedIn" width="21px"/></a></p>
 
 <h3>Technical skills:</h3>
-<img src="https://skillicons.dev/icons?i=js"/>
+<p><a href=""><img src="https://skillicons.dev/icons?i=js"/></a></p>
 <!--
 **aayush7908/aayush7908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
