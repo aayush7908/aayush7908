@@ -13,10 +13,15 @@
 </ul>
 
 <h3>Connect with me:</h3>
-<p><a href="https://www.linkedin.com/in/aayushdalal"><img src="https://raw.githubusercontent.com/aayush7908/aayush7908/main/images/linkedin.svg" alt="Aayush Dalal | LinkedIn" width="21px"/></a></p>
+<p><a href="https://www.linkedin.com/in/aayushdalal"><img src="https://skillicons.dev/icons?i=linkedin" alt="Aayush Dalal | LinkedIn"/></a></p>
 
 <h3>Technical skills:</h3>
-<p><a href=""><img src="https://skillicons.dev/icons?i=js"/></a></p>
+<a href=""><img src="https://skillicons.dev/icons?i=c" alt="c"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=java" alt="java"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=html" alt="html"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=css" alt="css"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=js" alt="javascript"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=js" alt="javascript"/></a>
 <!--
 **aayush7908/aayush7908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
