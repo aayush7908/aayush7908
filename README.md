@@ -17,23 +17,23 @@
 
 <h3>Technical skills:</h3>
 <a href=""><img src="https://skillicons.dev/icons?i=c" alt="c" title="C"/></a>
-<a href=""><img src="https://skillicons.dev/icons?i=java" alt="java"/></a>
-<a href=""><img src="https://skillicons.dev/icons?i=html" alt="html"/></a>
-<a href=""><img src="https://skillicons.dev/icons?i=css" alt="css"/></a>
-<a href=""><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/></a>
-<a href=""><img src="https://skillicons.dev/icons?i=js" alt="javascript"/></a>
-<a href=""><img src="https://skillicons.dev/icons?i=jquery" alt="jquery"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=java" alt="java" title="Java"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=html" alt="html" title="HTML5"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=css" alt="css" title="CSS3"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" title="Bootstrap"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=js" alt="javascript" title="Javascript"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=jquery" alt="jquery" title="jQuery"/></a>
 <br/>
-<a href=""><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/></a>
-<a href=""><img src="https://skillicons.dev/icons?i=express" alt="express.js"/></a>
-<a href=""><img src="https://skillicons.dev/icons?i=react" alt="react.js"/></a>
-<a href=""><img src="https://skillicons.dev/icons?i=nodejs" alt="node.js"/></a>
-<a href=""><img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/></a>
-<a href=""><img src="https://skillicons.dev/icons?i=postman" alt="postman"/></a>
-<a href=""><img src="https://skillicons.dev/icons?i=git" alt="git"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="mongoDB"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=express" alt="express.js" title="express.js"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=react" alt="react.js" title="react.js"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=nodejs" alt="node.js" title="node.js"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=postman" alt="postman" title="Postman"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=git" alt="git" title="Git"/></a>
 <br/>
-<a href=""><img src="https://skillicons.dev/icons?i=github" alt="github"/></a>
-<a href=""><img src="https://skillicons.dev/icons?i=vscode" alt="vscode"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=github" alt="github" title="Github"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" title="vs-code"/></a>
 <!--
 **aayush7908/aayush7908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
