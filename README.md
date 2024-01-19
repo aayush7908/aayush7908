@@ -16,7 +16,7 @@
 <p><a href="https://www.linkedin.com/in/aayushdalal"><img src="https://skillicons.dev/icons?i=linkedin" alt="Aayush Dalal | LinkedIn"/></a></p>
 
 <h3>Technical skills:</h3>
-<a href=""><img src="https://skillicons.dev/icons?i=c" alt="c"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=c" alt="c" title="C"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=java" alt="java"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=html" alt="html"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=css" alt="css"/></a>
