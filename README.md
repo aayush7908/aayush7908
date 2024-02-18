@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I am Aayush Dalal</h1>
 <ul>
-  <li>I like the web-development.</li>
+  <li>I like web-development.</li>
   <li>I like solving DSA problems.</li>
   <li>I like to visit new places and meet new people.</li>
 </ul>
