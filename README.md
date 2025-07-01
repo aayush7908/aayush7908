@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I am Aayush Dalal</h1>
 
-<p>I’m a final-year CSE student passionate about technology and scalability. I enjoy working in collaborative environments, as seen in my past internship and projects. I like learning and reading about designing scalable and robust systems</p>
+<p>I’m a full-stack developer passionate about technology and scalability. I enjoy working in collaborative environments. I like learning and reading about designing scalable and robust systems</p>
 
 <ul>
   <li>I like Development and DSA.</li>
@@ -14,6 +14,7 @@
 <h3>Technical skills:</h3>
 <a href=""><img src="https://skillicons.dev/icons?i=c" alt="c" title="C"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=java" alt="java" title="Java"/></a>
+<a href=""><img src="https://skillicons.dev/icons?i=python" alt="python" title="Python"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=html" alt="html" title="HTML5"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=css" alt="css" title="CSS3"/></a>
 <a href=""><img src="https://skillicons.dev/icons?i=js" alt="javascript" title="Javascript"/></a>
